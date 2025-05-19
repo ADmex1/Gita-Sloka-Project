@@ -1,6 +1,12 @@
-# bhagavad_v3
+# Gita-Sloka
 
-A new Flutter project.
+A Group project created During my College Year
+
+#Contributors
+https://github.com/GusOcha
+https://github.com/Rudolfananta
+https://github.com/wahyusatya
+https://github.com/ADmex1
 
 ## Getting Started
 
