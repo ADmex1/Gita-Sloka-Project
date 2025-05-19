@@ -2,11 +2,11 @@
 
 A Group project created During my College Year
 
-#Contributors
-https://github.com/GusOcha
-https://github.com/Rudolfananta
-https://github.com/wahyusatya
-https://github.com/ADmex1
+#Contributors:
+- https://github.com/GusOcha
+- https://github.com/Rudolfananta
+- https://github.com/wahyusatya
+- https://github.com/ADmex1
 
 ## Getting Started
 
